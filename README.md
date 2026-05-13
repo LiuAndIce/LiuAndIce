@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#雅典娜动态图 后者跑者形象  来彰显个性
+<img src="QQ图片20250927100942.jpg" width="100%" />
 
 #语言使用 标签 /
 
