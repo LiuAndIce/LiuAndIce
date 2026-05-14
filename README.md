@@ -17,6 +17,15 @@ Here are some ideas to get you started:
 <img src="QQ图片20250927100942.jpg" width="100%" />
 
 #语言使用 标签 /
+<span class="countdown font-mono text-2xl">
+  <span style="--value:10;" aria-live="polite" aria-label="10">10</span>
+  :
+  <span style="--value:24; --digits: 2;" aria-live="polite" aria-label="24">24</span>
+  :
+  <span style="--value:59; --digits: 2;" aria-live="polite" aria-label="59">59</span>
+</span>
+
+
 
 #abuot 
 
